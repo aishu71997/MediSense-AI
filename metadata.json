@@ -1,0 +1,6 @@
+{
+  "name": "MediSense AI",
+  "description": "An advanced full-stack healthcare application offering personalized dashboards, health charts, medical report analysis with Gemini AI, and medication tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
